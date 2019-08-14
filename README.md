@@ -31,91 +31,140 @@ workshop setup info.
 ### Workshop Overview
 
 **Draft learning objectives**:
+
 **Narrative**:
+
 **Dependencies from previous episode**:
+
  - Episode:
  - Dependency:
+
 **Products/outputs for subsequent episodes**:
+
  - Product/output:
+
 **User setup notes**:
+
  - Tool/dataset/account:
  - Tool/dataset/account:
 
 ### 4OSS Principles
 
 **Draft learning objectives**:
+
 **Narrative**:
+
 **Dependencies from previous episode**:
+
  - Episode:
  - Dependency:
+
 **Products/outputs for subsequent episodes**:
+
  - Product/output:
+
 **User setup notes**:
+
  - Tool/dataset/account:
  - Tool/dataset/account:
 
 ### GitHub
 
 **Draft learning objectives**:
+
 **Narrative**:
+
 **Dependencies from previous episode**:
+
  - Episode:
  - Dependency:
+
 **Products/outputs for subsequent episodes**:
+
  - Product/output:
+
 **User setup notes**:
+
  - Tool/dataset/account:
  - Tool/dataset/account:
 
 ### Containers
 
 **Draft learning objectives**:
+
 **Narrative**:
+
 **Dependencies from previous episode**:
+
  - Episode:
  - Dependency:
+
 **Products/outputs for subsequent episodes**:
+
  - Product/output:
+
 **User setup notes**:
+
  - Tool/dataset/account:
  - Tool/dataset/account:
 
 ### Notebooks
 
 **Draft learning objectives**:
+
 **Narrative**:
+
 **Dependencies from previous episode**:
+
  - Episode:
  - Dependency:
+
 **Products/outputs for subsequent episodes**:
+
  - Product/output:
+
 **User setup notes**:
+
  - Tool/dataset/account:
  - Tool/dataset/account:
 
 ### Application deployment
 
 **Draft learning objectives**:
+
 **Narrative**:
+
 **Dependencies from previous episode**:
+
  - Episode:
  - Dependency:
+
 **Products/outputs for subsequent episodes**:
+
  - Product/output:
+
 **User setup notes**:
+
  - Tool/dataset/account:
  - Tool/dataset/account:
 
 ### Roadmapping and summary
 
 **Draft learning objectives**:
+
 **Narrative**:
+
 **Dependencies from previous episode**:
+
  - Episode:
  - Dependency:
+
 **Products/outputs for subsequent episodes**:
+
  - Product/output:
+
 **User setup notes**:
+
  - Tool/dataset/account:
  - Tool/dataset/account:
 
