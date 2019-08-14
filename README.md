@@ -28,6 +28,8 @@ an account, please note that here so we have an easier time building the
 workshop setup info.
 
 
+----
+
 ### Workshop Overview
 
 **Draft learning objectives**:
@@ -47,6 +49,8 @@ workshop setup info.
 
  - Tool/dataset/account:
  - Tool/dataset/account:
+
+----
 
 ### 4OSS Principles
 
@@ -68,6 +72,8 @@ workshop setup info.
  - Tool/dataset/account:
  - Tool/dataset/account:
 
+----
+
 ### GitHub
 
 **Draft learning objectives**:
@@ -87,6 +93,8 @@ workshop setup info.
 
  - Tool/dataset/account:
  - Tool/dataset/account:
+
+----
 
 ### Containers
 
@@ -108,6 +116,8 @@ workshop setup info.
  - Tool/dataset/account:
  - Tool/dataset/account:
 
+----
+
 ### Notebooks
 
 **Draft learning objectives**:
@@ -128,6 +138,8 @@ workshop setup info.
  - Tool/dataset/account:
  - Tool/dataset/account:
 
+----
+
 ### Application deployment
 
 **Draft learning objectives**:
@@ -147,6 +159,8 @@ workshop setup info.
 
  - Tool/dataset/account:
  - Tool/dataset/account:
+
+----
 
 ### Roadmapping and summary
 
