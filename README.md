@@ -8,20 +8,20 @@
 |-------|----|-------|-----------|------------------------|----------------|
 |01 - Workshop Overview|Jason|Jason|Brief overview of CyVerse (publicly funded infrastructure project) and how it is being adopted internationality (CyVerse UK/Austria/Australia), how you can make free use of it, and how these and other technologies are relevant to European bioinformatics and infrastructure projects (e.g. ELIXIR and EOSC). We will also introduce common tools and related vocabulary for computing in life science research.|Discussion|00:30|
 |02 - 4OSS Principles||Mateusz, Fotis? Allegra|Participants will learn about the 4OSS principles and how they support reproducible, high-impact science through sustainable software and computing choices.|Hands-on|Discussion|00:30|
-|03 - GitHub||Mateusz, Fotis, Allegra|Participants will get an brief introduction to repository creation in Github and learn the value of developing code that is open from day one. Introduction of licensing and recommendations for fostering and managing contributions.|Hands-on|01:45|
+|03 - GitHub||Mateusz, Fotis, Allegra|Participants will get a brief introduction to repository creation in Github and learn the value of developing code that is open from day one. Introduction of licensing and recommendations for fostering and managing contributions.|Hands-on|01:45|
 |04 - Containers||Jason, Rob?|Participants will be introduced to Docker as a solution for software reproducibility, portability, and management. We will cover the basics of Docker and describe the process of pulling and running containers, including from popular repositories such as docker hub and biocontainers.|Hands-on|01:00|
-|05 - Notebooks||Fotis? Mateusz|Participants will cover the make use use of Docker to manage applications to deploy applications and use Jupyter notebooks to interface with applications.|Hands-on|01:30|
+|05 - Notebooks||Fotis? Mateusz|Participants will cover the use of Docker to manage applications to deploy applications and use Jupyter notebooks to interface with applications.|Hands-on|01:30|
 |06 - Application deployment |Jason|Jason, Rob?|Participants will take applications developed in the workshop and see how they can be deployed as usable applications in CyVerse as well as My Binder.|Hands-on|02:15|
 |07 - Roadmapping and summary ||Rob?|Participants will work in small teams to develop learning roadmaps to be implemented post-workshop (How will the workshop change what they are now doing? What questions do they still have? What technologies would the like more information on? etc.). These will be shared and collected and the instructional team will leave additional feedback and suggestions on the maps during and shortly after the workshop.Discussion|01:00|
 
 **Episode Descriptions**
 
-Here is a space with breif notes for each episode. The purpose is to share enough
+Here is a space with brief notes for each episode. The purpose is to share enough
 detail here that subsequent/episodes can be aligned.
 
 When you are ready post your learning objectives here. Also pay attention to
-the Dependancies (i.e. things you need a previous episode to accomplish);
-indicate all dependancies you need (they may not be from the immediately previous
+the dependencies  (i.e. things you need a previous episode to accomplish);
+indicate all dependencies you need (they may not be from the immediately previous
 episode). Also indicate any products you create that you think will be used downstream.
 Also - if users will need to install software, import data, sign-up for
 an account, please note that here so we have an easier time building the
@@ -32,10 +32,10 @@ workshop setup info.
 
 **Draft learning objectives**:
 **Narrative**:
-**Dependancies from previous episode**:
+**Dependencies from previous episode**:
  - Episode:
- - Dependancy:
-**Products/ouputs for subsequent episodes**:
+ - Dependency:
+**Products/outputs for subsequent episodes**:
  - Product/output:
 **User setup notes**:
  - Tool/dataset/account:
@@ -45,10 +45,10 @@ workshop setup info.
 
 **Draft learning objectives**:
 **Narrative**:
-**Dependancies from previous episode**:
+**Dependencies from previous episode**:
  - Episode:
- - Dependancy:
-**Products/ouputs for subsequent episodes**:
+ - Dependency:
+**Products/outputs for subsequent episodes**:
  - Product/output:
 **User setup notes**:
  - Tool/dataset/account:
@@ -58,10 +58,10 @@ workshop setup info.
 
 **Draft learning objectives**:
 **Narrative**:
-**Dependancies from previous episode**:
+**Dependencies from previous episode**:
  - Episode:
- - Dependancy:
-**Products/ouputs for subsequent episodes**:
+ - Dependency:
+**Products/outputs for subsequent episodes**:
  - Product/output:
 **User setup notes**:
  - Tool/dataset/account:
@@ -71,10 +71,10 @@ workshop setup info.
 
 **Draft learning objectives**:
 **Narrative**:
-**Dependancies from previous episode**:
+**Dependencies from previous episode**:
  - Episode:
- - Dependancy:
-**Products/ouputs for subsequent episodes**:
+ - Dependency:
+**Products/outputs for subsequent episodes**:
  - Product/output:
 **User setup notes**:
  - Tool/dataset/account:
@@ -84,10 +84,10 @@ workshop setup info.
 
 **Draft learning objectives**:
 **Narrative**:
-**Dependancies from previous episode**:
+**Dependencies from previous episode**:
  - Episode:
- - Dependancy:
-**Products/ouputs for subsequent episodes**:
+ - Dependency:
+**Products/outputs for subsequent episodes**:
  - Product/output:
 **User setup notes**:
  - Tool/dataset/account:
@@ -97,10 +97,10 @@ workshop setup info.
 
 **Draft learning objectives**:
 **Narrative**:
-**Dependancies from previous episode**:
+**Dependencies from previous episode**:
  - Episode:
- - Dependancy:
-**Products/ouputs for subsequent episodes**:
+ - Dependency:
+**Products/outputs for subsequent episodes**:
  - Product/output:
 **User setup notes**:
  - Tool/dataset/account:
@@ -110,10 +110,10 @@ workshop setup info.
 
 **Draft learning objectives**:
 **Narrative**:
-**Dependancies from previous episode**:
+**Dependencies from previous episode**:
  - Episode:
- - Dependancy:
-**Products/ouputs for subsequent episodes**:
+ - Dependency:
+**Products/outputs for subsequent episodes**:
  - Product/output:
 **User setup notes**:
  - Tool/dataset/account:
