@@ -12,14 +12,12 @@
 |04 - Containers||Jason, Rob?|Participants will be introduced to Docker as a solution for software reproducibility, portability, and management. We will cover the basics of Docker and describe the process of pulling and running containers, including from popular repositories such as docker hub and biocontainers.|Hands-on|01:00|
 |05 - Notebooks||Fotis? Mateusz|Participants will cover the make use use of Docker to manage applications to deploy applications and use Jupyter notebooks to interface with applications.|Hands-on|01:30|
 |06 - Application deployment |Jason|Jason, Rob?|Participants will take applications developed in the workshop and see how they can be deployed as usable applications in CyVerse as well as My Binder.|Hands-on|02:15|
-|07 - Roadmapping and summary ||Rob?||Participants will work in small teams to develop learning roadmaps to be implemented post-workshop (How will the workshop change what they are now doing? What questions do they still have? What technologies would the like more information on? etc.). These will be shared and collected and the instructional team will leave additional feedback and suggestions on the maps during and shortly after the workshop.Discussion|01:00|
+|07 - Roadmapping and summary ||Rob?|Participants will work in small teams to develop learning roadmaps to be implemented post-workshop (How will the workshop change what they are now doing? What questions do they still have? What technologies would the like more information on? etc.). These will be shared and collected and the instructional team will leave additional feedback and suggestions on the maps during and shortly after the workshop.Discussion|01:00|
 
 **Episode Descriptions**
 
 Here is a space with breif notes for each episode. The purpose is to share enough
 detail here that subsequent/episodes can be aligned.
-
-### Workshop Overview
 
 When you are ready post your learning objectives here. Also pay attention to
 the Dependancies (i.e. things you need a previous episode to accomplish);
@@ -28,6 +26,9 @@ episode). Also indicate any products you create that you think will be used down
 Also - if users will need to install software, import data, sign-up for
 an account, please note that here so we have an easier time building the
 workshop setup info.
+
+
+### Workshop Overview
 
 **Draft learning objectives**:
 **Narrative**:
