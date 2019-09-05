@@ -34,21 +34,31 @@ workshop setup info.
 
 **Draft learning objectives**:
 
+ - Understand the objectives for the workshop
+ - Understand the background and purpose of the CyVerse project
+ - List current European iniatives concerned with the promotion of
+   software reproducibility/sustainability in the life sciences
+
 **Narrative**:
+
+This short overview will set the tone for the workshop. Learners should
+understand what our goals are, but realize that the materials are
+work-in-progress (and that we can be flexible). Learners should also know
+what are some European projects they might want to learn more about.
 
 **Dependencies from previous episode**:
 
- - Episode:
- - Dependency:
+None
 
 **Products/outputs for subsequent episodes**:
 
  - Product/output:
+   - Learners should confirm at this stage they have completed pre-workshop
+     setup items, and be invited to alert instructors to unresolved problems.
 
 **User setup notes**:
 
- - Tool/dataset/account:
- - Tool/dataset/account:
+ - Tool/dataset/account: CyVerse Account
 
 ----
 
@@ -100,21 +110,35 @@ workshop setup info.
 
 **Draft learning objectives**:
 
+- Understand what containers are
+- List some of the benefits of using Docker ontainers
+- Be able to search for and pull a Docker container or Biocontainer
+- Be able to start and interact with a Docker container
+- Understand how Dockerfiles are used to create containers
+
+
 **Narrative**:
+
+We will introduce Docker containers and through a series of hands-on exercises
+we will guide users through basic container functions.
 
 **Dependencies from previous episode**:
 
- - Episode:
- - Dependency:
+ - Episode: 03 GitHub
+ - Dependency: Learners may need to be able to navigate github to examine
+   Dockerfiles.
 
 **Products/outputs for subsequent episodes**:
 
- - Product/output:
+ - Product/output: Learners will pull a container that allows them to run
+   a Jupyter notebook
+ - Product/output: Learners can pull containers for subsequent episodes
 
 **User setup notes**:
 
- - Tool/dataset/account:
- - Tool/dataset/account:
+ - Tool/dataset/account: CyVerse account
+ - Tool/dataset/account: Dockerhub account
+ - Tool/dataset/account: GitHub account
 
 ----
 
@@ -144,21 +168,30 @@ workshop setup info.
 
 **Draft learning objectives**:
 
+- Understand how MyBinder and CyVerse can host notebooks and containers
+- Be able to generate a MyBinder notebook from a GitHub repository
+- Be able to deploy a container through CyVerse
+
 **Narrative**:
+
+Using a single GitHub repository with a sample Notebook and dependencies, we
+will guide users through deploying this application on MyBinder and on CyVerse
+VICE.
 
 **Dependencies from previous episode**:
 
- - Episode:
- - Dependency:
+ - Episode: 05 Notebooks
+ - Dependency: Jupyer notebook and dependencies for deployment
 
 **Products/outputs for subsequent episodes**:
 
- - Product/output:
+ - Product/output: A notebook with the tools for a reproducible analysis
 
 **User setup notes**:
 
- - Tool/dataset/account:
- - Tool/dataset/account:
+ - Tool/dataset/account: CyVerse account
+ - Tool/dataset/account: Dockerhub account
+ - Tool/dataset/account: GitHub account
 
 ----
 
