@@ -63,11 +63,11 @@ All being well, once logged in you should see your GitHub activity dashboard. As
 
 In the top left of the GitHub page, you should see your login name and a green button underneath to create a new repository:
 
-![New Repository button](github_new_repo.png)
+![New Repository button](../assets/img/github_new_repo.png)
 
 Click this button and you should be presented with the next screen where you tell GitHub information about your new repo:
 
-![New Repository details](github_new_repo_details.png)
+![New Repository details](../assets/img/github_new_repo_details.png)
 
 We need to pick a name for our repo, and GitHub even makes some amusing suggestions.
 
@@ -93,7 +93,7 @@ We will cover picking a licence in this lesson (LINK).
 
 Note that this doesn't mean that someone can come along and start editing code in your repository! They will need to be given access to your repo to make changes or "Pull Requests" - we will cover this later.
 
-![New empty repository](github_new_empty_repo.png)
+![New empty repository](../assets/img/github_new_empty_repo.png)
 
 
 {% include links.md %}
