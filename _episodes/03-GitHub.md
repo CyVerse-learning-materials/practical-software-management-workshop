@@ -93,7 +93,7 @@ We will cover picking a licence in this lesson (LINK).
 
 Note that this doesn't mean that someone can come along and start editing code in your repository! They will need to be given access to your repo to make changes or "Pull Requests" - we will cover this later.
 
-
+![New empty repository](github_new_empty_repo.png)
 
 
 {% include links.md %}
